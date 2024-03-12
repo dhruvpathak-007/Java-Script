@@ -48,7 +48,6 @@ Your feedback is important! If you have any questions, comments, or concerns abo
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the contents of this repository for educational purposes.
 
 ---
 
